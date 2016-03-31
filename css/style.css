@@ -1,0 +1,66 @@
+* {font-family: Verdana;}
+
+li {list-style: none;}
+
+a {text-decoration: none;}
+
+ .tiny {font-size: 9px;} 
+ .small {font-size: 12px;}
+ .medium {font-size: 15px;}
+
+/*CABEZERA*/
+
+.buscar {width: 150px;
+	position: absolute; top:5%; right:20%; 
+	border: 1px solid #cdcdcd; 
+	background-color: #f5f5f5;
+	padding: 5px;}
+#buscar {color: #cdcdcd; font-size: 15px;}
+.mov { color: #cdcdcd; position: absolute; top: 5%; left:35%;}
+
+/*BIG HERO 6*/
+
+.rojo {position: absolute; left: 400px; top:400px; width: 70px;}
+
+.verde {color: #3BCF68; 
+	border: 4px solid #3BCF68; border-radius: 5px;width: 70px;
+	padding:5px;}
+
+.textohero {
+		width: 500px;
+		padding-top: 50px;
+		padding-bottom: 73.3%;
+		padding-right: 30px;
+		position: absolute; right: 0; top: 10%;
+		color: white; }
+
+			.boton {width: 200px; border-radius: 5px; padding: 10px;}
+			.yel {background-color:#d6b03b;}
+			.ora {background-color: #bc7b29;}
+
+			table {margin-top: 20px; margin-bottom: 20px; width: 500px;}
+
+
+
+/*Galeria 1*/
+.cuerpo {background-color: #d6b03b; padding: 20px; position:relative; top: -3px;}
+.min {width:190px; height: 260px;}
+.video {position: relative; top: -3px;}
+
+/*Noticias de la derecha*/
+
+.boton2 {color: white; width: 100px; border-radius: 5px; padding: 10px;}
+
+/*Galeria de abajo*/
+
+
+.img2 {width: 100%;
+	height: 350px;}
+
+
+/*Footer*/
+
+.bajo {background-color: #f3f3f3; font-size: 15px; color: #cdcdcd;
+	   padding: 20px;
+}
+
